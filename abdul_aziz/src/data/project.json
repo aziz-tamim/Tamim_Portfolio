@@ -1,0 +1,288 @@
+{
+  "projects": [
+    {
+      "id": "three",
+      "name": "Darkify",
+      "title": "Darkify – Dark Mode for Better UX, Accessibility & Dark Theme Design",
+      "image": "assets/images/darkify_01.png",
+      "galleryImg": [
+        {
+          "image": "assets/images/darkify_01.png"
+        },
+        {
+          "image": "assets/images/darkify_02.png"
+        },
+        {
+          "image": "assets/images/darkify_03.png"
+        },
+        {
+          "image": "assets/images/darkify_04.png"
+        },
+        {
+          "image": "assets/images/darkify_05.png"
+        },
+        {
+          "image": "assets/images/darkify_06.png"
+        }
+      ],
+      "description": [
+        {
+          "item": "Darkify makes it easy to add a dark mode feature to your site with just a few clicks. The plugin lets visitors switch to a dark interface that can improve readability and comfort in low-light environments."
+        },
+        {
+          "item": "Dark mode can help reduce eye strain and support accessibility for users with light sensitivity or visual preferences. Darkify supports both the frontend and the WordPress admin dashboard so you can use a consistent dark interface across your site."
+        },
+        {
+          "item": "Darkify is a customizable dark mode plugin for WordPress sites. It provides a toggle for both the frontend and the WordPress admin dashboard and includes options to adjust colors, media, and visibility so your content remains legible in dark mode."
+        }
+      ],
+      "liveLink": "https://darkifywp.com/",
+      "githubLink": "https://darkifywp.com/docs",
+      "technology": [
+        {
+          "item": "WordPress"
+        }
+      ]
+    },
+    {
+      "id": "five",
+      "name": "Eventful",
+      "title": "Eventful – Event Showcase Addon for The Events Calendar",
+      "image": "assets/images/eventful_01.png",
+      "galleryImg": [
+        {
+          "image": "assets/images/eventful_01.png"
+        },
+        {
+          "image": "assets/images/eventful_02.png"
+        },
+        {
+          "image": "assets/images/eventful_03.png"
+        }
+      ],
+      "description": [
+        {
+          "item": "Eventful is an addon for The Events Calendar that lets you showcase your events in modern, responsive layouts."
+        },
+        {
+          "item": "Choose from sliders, carousels, grids, or lists, and customize the design to fit your website — no coding required."
+        },
+        {
+          "item": "With support for popular page builders like Elementor and Gutenberg, Eventful makes it easy to highlight upcoming events, workshops, conferences, or community activities in a way that feels professional and engaging."
+        },
+        {
+          "item": "Unlike basic event shortcode plugins, Eventful gives you complete design control with rich layout styles, advanced filters, flexible display options, and full builder compatibility—so you can create event showcases that match your brand and boost engagement."
+        }
+      ],
+      "liveLink": "https://wpeventful.com/",
+      "githubLink": "https://wpeventful.com/docs",
+      "technology": [
+        {
+          "item": "WordPress"
+        }
+      ]
+    },
+    {
+      "id": "six",
+      "name": "Chat Help",
+      "title": "Chat Help – Click to Chat Button & Form",
+      "image": "assets/images/chat_help_01.png",
+      "galleryImg": [
+        {
+          "image": "assets/images/chat_help_01.png"
+        },
+        {
+          "image": "assets/images/chat_help_02.png"
+        },
+        {
+          "image": "assets/images/chat_help_03.png"
+        },
+        {
+          "image": "assets/images/chat_help_04.png"
+        },
+        {
+          "image": "assets/images/chat_help_05.png"
+        }
+      ],
+      "description": [
+        {
+          "item": "WhatsApp Chat plugin for WordPress lets you add instant WhatsApp or WhatsApp Business chat to your site using a floating chat bubble, WooCommerce buttons, shortcodes, Gutenberg blocks, and Elementor widgets."
+        },
+        {
+          "item": "Visitors can contact you faster with click-to-chat buttons, pre-filled messages, agent support, scheduling, and GDPR consent—making conversations simple and personal."
+        },
+        {
+          "item": "Choose from multiple layouts and styles to match your brand, including single-agent, multi-agent, form, and custom chat buttons."
+        }
+      ],
+      "liveLink": "https://wpchathelp.com/",
+      "githubLink": "https://wpchathelp.com/docs",
+      "technology": [
+        {
+          "item": "WordPress"
+        }
+      ]
+    },
+    {
+      "id": "one",
+      "name": "Greet",
+      "title": "Greet - Video Bubble JavaScript Plugin.",
+      "image": "assets/images/greet_01.png",
+      "galleryImg": [
+        {
+          "image": "assets/images/greet_01.png"
+        },
+        {
+          "image": "assets/images/greet_02.png"
+        },
+        {
+          "image": "assets/images/greet_03.png"
+        },
+        {
+          "image": "assets/images/greet_04.png"
+        },
+        {
+          "image": "assets/images/greet_04.png"
+        }
+      ],
+      "description": [
+        {
+          "item": "Do you know in a website we trust people not to text? So placing a video on websites can ingress the sales of your services or products in a significant way. Greet is a professional video bubble plugin for putting videos on your website in a great and fun way. It has easy and simple steps to use on any kind of websites."
+        },
+        {
+          "item": "If you running an online business you can try this video bubble. By which you can give customers an intro about your business."
+        },
+        {
+          "item": "Giving full details about the product while advertising is a worrying matter. A video bubble can help you to give a full introduction."
+        }
+      ],
+      "liveLink": "https://js-plugins.themeatelier.net/greet/index.html",
+      "githubLink": "#",
+      "technology": [
+        {
+          "item": "JavaScript"
+        },
+        {
+          "item": "SCSS"
+        },
+        {
+          "item": "CSS"
+        },
+        {
+          "item": "HTML"
+        }
+      ],
+      "comparable" : "This video bubble plugin is compatible with both <a href='https://1.envato.market/JrnKgQ'>React</a> and <a href='https://1.envato.market/gbdm79'>WordPress</a> platforms, enabling seamless integration and functionality within applications built using React or WordPress-based websites."
+    },
+    {
+      "id": "four",
+      "name": "Kerri Maharaj",
+      "title": "Kerri Maharaj – Financially Wise, Financially Strong Book Website",
+      "image": "assets/images/finincally-wise.jpg",
+      "galleryImg": [
+        {
+          "image": "assets/images/finincally-wise.jpg"
+        }
+      ],
+      "description": [
+        {
+          "item": "We worked with author Kerri Maharaj to transform a static HTML book template into a fully functional WordPress website using Elementor. The responsive, modern design was customized to highlight his book and personal brand while ensuring easy content management."
+        },
+        {
+          "item": "Converted a static HTML book template into a responsive WordPress website using Elementor, tailored to showcase author Kerri Maharaj’s book and brand."
+        },
+        {
+          "item": "A modern, responsive WordPress website built from an HTML template to promote author Kerri Maharaj’s book and personal brand with ease and elegance."
+        }
+      ],
+      "liveLink": "https://js-plugins.themeatelier.net/greet/index.html",
+      "githubLink": "#",
+      "technology": [
+        {
+          "item": "Bootstrap"
+        },
+        {
+          "item": "CSS"
+        },
+        {
+          "item": "Elementor"
+        },
+        {
+          "item": "HTML5"
+        },
+        {
+          "item": "WordPress"
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "name": "Wonted",
+      "title": "Wonted - Book & Author React Template",
+      "image": "assets/images/wonted_01.jpg",
+      "galleryImg": [
+        {
+          "image": "assets/images/wonted_01.jpg"
+        },
+        {
+          "image": "assets/images/wonted_02.jpg"
+        },
+        {
+          "image": "assets/images/wonted_03.jpg"
+        },
+        {
+          "image": "assets/images/wonted_04.jpg"
+        },
+        {
+          "image": "assets/images/wonted_05.jpg"
+        }
+      ],
+      "description": [
+        {
+          "item": "Are you a book author and you want your books to be seen by millions? Or do you want to make an Author portfolio website for you?"
+        },
+        {
+          "item": "The template is specially built to showcase and sell your books or eBooks and make a portfolio site for book authors but if you wish you can also showcase your audiobook, podcasts, videos, and portfolios website for any other field."
+        },
+        {
+          "item": "It has 6 different Home pages with 40+ components and each component can be used with an alternate background like white and other colors used in the template."
+        }
+      ],
+      "liveLink": "https://themeforest.net/item/wonted-book-author-react-template/39108426?s_rank=1",
+      "githubLink": "https://github.com/sakhawat9",
+      "technology": [
+        {
+          "item": "React"
+        },
+        {
+          "item": "React-Router-Dom"
+        },
+        {
+          "item": "React-Bootstrap"
+        },
+        {
+          "item": "SASS"
+        },
+        {
+          "item": "Mailechimp"
+        },
+        {
+          "item": "icofont"
+        },
+        {
+          "item": "Formspree"
+        },
+        {
+          "item": "Glightbox"
+        },
+        {
+          "item": "Aos Animation"
+        },
+        {
+          "item": "Swiper Slider"
+        }
+      ],
+      "comparable" : "This template is fully compatible with the <a href='https://1.envato.market/wonted-react'>React</a> version."
+    }
+  ]
+}

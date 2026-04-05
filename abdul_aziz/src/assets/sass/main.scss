@@ -1,0 +1,16 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./abstracts/animations";
+@import "./abstracts/variables";
+
+@import "./base/typography";
+@import "./base/base";
+
+@import "./components/header";
+@import "./components/hero";
+@import "./components/about-us";
+@import "./components/experience";
+@import "./components/service";
+@import "./components/projects";
+@import "./components/blog";
+@import "./components/contact";
+@import "./components/footer";

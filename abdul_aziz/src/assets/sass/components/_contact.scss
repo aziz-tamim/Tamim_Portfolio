@@ -1,0 +1,133 @@
+.email-success,
+.email-failed,
+.email-loading,
+.success-msg,
+.error-msg {
+  text-align: center;
+  padding: 10px;
+  display: none;
+}
+.email-loading img {
+  width: 20px;
+  margin: 0 auto;
+}
+.email-failed .icon {
+  font-size: 20px;
+  position: relative;
+  top: 5px;
+}
+.email-failed .icon,
+.email-success .icon,
+.error-msg .icon,
+.success-msg .icon {
+  font-size: 20px;
+  position: relative;
+  top: 2px;
+}
+
+.contact {
+  background-color: $color-tertiary;
+  &-form-box {
+    padding: 40px;
+    background-color: $color-secondary;
+    border-radius: 5px;
+    @include media-breakpoint-down(md) {
+      padding: 20px;
+    }
+    label {
+      margin-bottom: 10px;
+    }
+    input,
+    textarea {
+      width: 100%;
+      border: none;
+      padding: 10px;
+      margin-bottom: 15px;
+      background-color: $color-tertiary;
+      color: $color-light;
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease-in-out;
+    }
+    input:focus,input:hover,
+    textarea:focus, textarea:hover {
+      outline: none;
+      border: none;
+      border-bottom: 2px solid $color-tertiary;
+    }
+    textarea {
+      min-height: 170px;
+    }
+  }
+  &__address {
+    height: 100%;
+    padding: 40px;
+    background-color: $color-secondary;
+    border-radius: 5px;
+    
+    iframe {
+      width: 100%;
+      height: 250px;
+      padding-bottom: 20px;
+    }
+    &__image {
+      img {
+        width: 100%;
+        border-radius: 5px;
+        margin-bottom: 15px;
+      }
+    }
+    &__description {
+      margin-bottom: 15px;
+      span {
+        display: inline-block;
+        a {
+          color: $color-light;
+          &:hover {
+            color: $color-primary;
+          }
+        }
+      }
+    }
+    &__content {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      li {
+        margin-bottom: 30px;
+        a {
+          display: block;
+          color: $color-light;
+          &:hover {
+            color: $color-tertiary;
+          }
+        }
+        span {
+          font-weight: 700;
+          font-family: $font-heading;
+          display: block;
+          margin-bottom: 5px;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+  .contact-form-box {
+    button {
+      width: 100%;
+    }
+    .button:hover {
+      background-color: $color-tertiary;
+    }
+  }
+  .social-icon li a:hover {
+    background-color: $color-tertiary;
+  }
+}
+.bg-one {
+  .contact-form-box {
+    background-color: $color-light;
+  }
+  .contact__address {
+    background-color: $color-light;
+  }
+}

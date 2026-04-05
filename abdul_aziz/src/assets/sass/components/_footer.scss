@@ -1,0 +1,10 @@
+.footer {
+    background-color: $color-secondary;
+    color: $color-light;
+    a {
+        color: $color-light;
+        &:hover {
+            color: $color-primary;
+        }
+    }
+}

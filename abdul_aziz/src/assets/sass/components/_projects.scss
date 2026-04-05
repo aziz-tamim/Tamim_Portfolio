@@ -1,0 +1,179 @@
+.projects {
+  background-color: $color-secondary;
+  &__item {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: $color-tertiary;
+    height: 100%;
+    &:hover {
+      .projects__item__image {
+        .view {
+          top: 60%;
+          transform: translate(-50%, 0);
+          opacity: 1;
+        }
+      }
+    }
+    &__image {
+      img {
+        border-radius: 5px;
+      }
+      position: relative;
+      .view {
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, 0);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: all 0.5s;
+        opacity: 0;
+        &__icon {
+          width: 40px;
+          height: 40px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border-radius: 50%;
+          font-size: 18px;
+          background-color: $color-light;
+          color: $color-secondary;
+          padding: 8px;
+          transition: all 0.5s;
+          cursor: pointer;
+          &:hover {
+            background-color: $color-primary;
+            color: $color-light;
+          }
+        }
+      }
+    }
+    &__content {
+      margin-top: 20px;
+      p {
+        margin-bottom: 0;
+      }
+      h3 a{
+        color: $color-light;
+        &:hover {
+          color: $color-primary;
+        }
+      }
+    }
+    &__modal {
+      .modal-content {
+        position: relative;
+        background-color: $color-secondary;
+        .demo {
+          background-color: $color-primary;
+          padding: 5px 10px;
+          color: $color-light;
+          border-radius: 5px;
+          &:hover {
+            background-color: $color-tertiary;
+          }
+        }
+        .subtitle {
+          font-size: 20px;
+          font-weight: 600;
+          margin-bottom: 20px;
+        }
+        .description {
+          margin-bottom: 20px;
+          p {
+            font-size: 15px;
+            font-weight: 300;
+            margin-bottom: 10px;
+          }
+        }
+        .technology {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 8px;
+          padding-top: 5px;
+          padding-bottom: 8px;
+          span {
+            padding: 3px 8px;
+            background-color: $color-primary;
+            color: $color-light;
+            border-radius: 3px;
+            transition: all 0.5s;
+            font-size: 15px;
+            font-weight: 300;
+            &:hover {
+              background-color: $color-tertiary;
+            }
+          }
+        }
+        .compatible {
+          a {
+            color: $color-primary;
+          }
+        }
+        .modal-content {
+          &__image {
+            img {
+              border-radius: 5px;
+            }
+            &-btn {
+              position: relative;
+              cursor: pointer;
+              &::before {
+                position: absolute;
+                content: "";
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                background-color: $color-dark;
+                opacity: 0.5;
+                transition: all 0.5s;
+                border-radius: 5px;
+              }
+              &:hover {
+                &::before {
+                  opacity: 0;
+                }
+              }
+              img {
+                border-radius: 5px;
+              }
+            }
+          }
+          .swiper-slide-thumb-active {
+            .modal-content__image-btn {
+              &::before {
+                opacity: 0;
+              }
+            }
+          }
+        }
+      }
+      &__close {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: -7px;
+        right: -7px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        border: none;
+        background-color: $color-danger;
+        color: $color-light;
+        z-index: 99;
+        font-size: 18px;
+        &:focus {
+          outline: none;
+        }
+      }
+      .modal-content {
+        &__title {
+          color: $color-dark;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.experience {
+    background-color: $color-secondary;
+    &__company {
+        color: $color-light;
+        a {
+            color: $color-light;
+            &:hover {
+                color: $color-primary;
+            }
+        }
+    }
+    &__subtitle {
+        color: $color-primary;
+        margin-bottom: 30px;
+    }
+    p {
+        margin-bottom: 15px;
+    }
+}

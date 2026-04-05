@@ -1,0 +1,29 @@
+.service {
+  background-color: $color-tertiary;
+  &__item {
+    background-color: $color-secondary;
+    border-radius: 5px;
+    padding: 20px;
+    @include media-breakpoint-down(sm) {
+      padding: 15px;
+    }
+    h3 {
+      text-align: center;
+    }
+    p {
+        margin: 0;
+        text-align: center;
+    }
+  }
+  .icon {
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $color-primary;
+    margin-bottom: 15px;
+  }
+}
