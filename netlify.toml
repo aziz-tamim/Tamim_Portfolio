@@ -1,0 +1,11 @@
+[build]
+# The base of your project (repo root)
+base = "."
+# React build folder
+publish = "build"
+# Build command
+command = "npm run build"
+
+[build.environment]
+# Ensure Netlify uses Node 24 or higher
+NODE_VERSION = "24"
