@@ -1,5 +1,5 @@
 import React from "react";
-import { FaBrain, FaCode, FaDesktop, FaLaptopCode } from "react-icons/fa";
+import { FaBrain, FaDesktop, FaLaptopCode } from "react-icons/fa";
 
 const Services = () => {
   return (

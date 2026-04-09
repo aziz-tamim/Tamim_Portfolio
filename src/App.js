@@ -1,5 +1,4 @@
 import AboutUs from "./components/about-us";
-import Blog from "./components/blog";
 import Contact from "./components/contact";
 import Experience from "./components/experience";
 import Footer from "./components/footer";
