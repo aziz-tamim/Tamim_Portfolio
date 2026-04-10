@@ -48,7 +48,7 @@ const Blog = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://sakhawat.medium.com/react-js-fundamental-10-concepts-f1bb1780df1f"
+                  href="#"
                 >
                   <img
                     className="img-fluid"
@@ -60,7 +60,7 @@ const Blog = () => {
               <div className="blog__single-post__body card-body">
                 <div className="blog__single-post__content">
                   <h2 className="fs-4">
-                    <a href="https://sakhawat.medium.com/react-js-fundamental-10-concepts-f1bb1780df1f">
+                    <a href="#">
                       React.js fundamental 10 concepts
                     </a>
                   </h2>
@@ -87,7 +87,7 @@ const Blog = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://sakhawat.medium.com/javascript-es6-block-binding-385781357080"
+                  href="#"
                 >
                   <img
                     className="img-fluid"
@@ -99,7 +99,7 @@ const Blog = () => {
               <div className="blog__single-post__body card-body">
                 <div className="blog__single-post__content">
                   <h2 className="fs-4">
-                    <a href="https://sakhawat.medium.com/javascript-es6-block-binding-385781357080">
+                    <a href="#">
                       JavaScript ES6 Block Bindin
                     </a>
                   </h2>
@@ -125,7 +125,7 @@ const Blog = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://sakhawat.medium.com/top-10-javascript-interview-questions-2e1d2f106443"
+                  href="#"
                 >
                   <img
                     className="img-fluid"
@@ -137,7 +137,7 @@ const Blog = () => {
               <div className="blog__single-post__body card-body">
                 <div className="blog__single-post__content">
                   <h2 className="fs-4">
-                    <a href="https://sakhawat.medium.com/top-10-javascript-interview-questions-2e1d2f106443">
+                    <a href="#">
                       Top 10 JavaScript Interview Questions
                     </a>
                   </h2>
