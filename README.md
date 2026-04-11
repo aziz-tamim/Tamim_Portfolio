@@ -61,4 +61,4 @@ I enjoy building responsive websites and solving algorithmic challenges.
 
 ## 📫 Contact Me
 - 📧 Email: tamimaziz2007@gmail.com
-- 🌐 Portfolio: (https://tamim-aziz.netlify.app/)
+- 🌐 Portfolio: https://tamim-aziz.netlify.app/
