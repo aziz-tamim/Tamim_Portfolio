@@ -145,12 +145,12 @@ const Contact = () => {
               <h4>Find with me</h4>
               <ul className="social-icon mt-3">
                 <li>
-                  <a href="https://www.facebook.com/tamim.aziz.38693">
+                  <a href="https://www.facebook.com/imtamimaziz">
                     <FaFacebookF />
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/tamimaziz2007/">
+                  <a href="https://www.instagram.com/imtamimaziz/">
                     <BsInstagram />
                   </a>
                 </li>

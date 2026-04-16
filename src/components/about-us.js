@@ -54,12 +54,12 @@ const AboutUs = () => {
               <h3 className="mt-4">My Social Media Accounts.</h3>
               <ul className="social-icon mt-3">
                 <li>
-                  <a href="https://www.facebook.com/tamim.aziz.38693">
+                  <a href="https://www.facebook.com/imtamimaziz">
                     <FaFacebookF />
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/tamimaziz2007/">
+                  <a href="https://www.instagram.com/imtamimaziz/">
                     <BsInstagram />
                   </a>
                 </li>
