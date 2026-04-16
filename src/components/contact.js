@@ -160,7 +160,7 @@ const Contact = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/abdul-aziz-tamim-611b2b306/">
+                  <a href="https://www.linkedin.com/in/imtamimaziz/">
                     <FaLinkedinIn />
                   </a>
                 </li>
